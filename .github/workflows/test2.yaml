@@ -14,8 +14,8 @@ jobs:
           - name: display the date
             run: date
 
-          - name: display the year
-            run: year
+          - name: display the commands
+            run: ls -lrth
 
 
         
