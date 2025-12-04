@@ -14,8 +14,8 @@ jobs:
           - name: display the date
             run: date
 
-          - name: display the day
-            run: day
-            
+          - name: display the year
+            run: year
+
 
         
