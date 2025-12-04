@@ -9,7 +9,7 @@ jobs:
         steps:
 
             -name: create a one file
-             run: echo "kkdevops 123456" > devops.txt
+              run: echo "kkdevops 123456" > devops.txt
 
 
              -name: display the content of a file
