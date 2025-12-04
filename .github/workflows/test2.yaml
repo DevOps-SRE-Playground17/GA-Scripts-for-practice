@@ -12,6 +12,6 @@ jobs:
             run: echo " hello vamsi"
 
           - name: display the date
-             run: date
-               
+            run: date
+
         
